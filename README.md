@@ -1,3 +1,4 @@
+# Veri Analizi ve Manipülasyonu
 ## Amaç
 Bu ödevde öğrenciler, karmaşık veri manipülasyonu, veri temizleme ve analiz becerilerini geliştirecekler. Çeşitli zorluk seviyelerinde alt görevler içeren bir veri analizi süreci üzerinden gidilecektir.
 ### Gerekli Kütüphaneler
